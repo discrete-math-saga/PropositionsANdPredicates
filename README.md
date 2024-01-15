@@ -1,2 +1,3 @@
-# PropositionsAndPredicates
-第2回「命題と述語」
+# 命題、述語
+- `deMorgan.ipynb`: de Morganの法則
+- `contradition.ipynb`: 対偶
