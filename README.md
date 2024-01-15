@@ -1,3 +1,3 @@
 # 命題、述語
 - `deMorgan.ipynb`: de Morganの法則
-- `contradition.ipynb`: 対偶
+- `contradiction.ipynb`: 対偶
